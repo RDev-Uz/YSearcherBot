@@ -1,0 +1,2 @@
+PyTelegramBotAPI == 4.6.0
+youtube-search == 2.1.1
