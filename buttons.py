@@ -16,9 +16,7 @@ class BTN:
                 InlineKeyboardButton("📹 Videoni ko'rish",url=video_url),    
             ],
             [
-                InlineKeyboardButton("🏠",callback_data='home'),
                 InlineKeyboardButton("⤴️ Ulashish",switch_inline_query=video_id),
-                InlineKeyboardButton("❌",callback_data='delete'),
             ]
         ])
     def sharebot():
