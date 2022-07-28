@@ -5,4 +5,4 @@ Botni yozishda ishlatilgan kutubxonalar: [PyTelegramBotAPI](https://pypi.org/pro
 ## Kerakli kutubxonalarni o'rnatish:
 `pip3 install -r requirements.txt`
 
- - Savollar uchun: [@RDevUz](https://t.me/RDevUz)
+ ## - Savollar uchun: [@RDevUz](https://t.me/RDevUz)
