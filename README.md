@@ -1,4 +1,4 @@
-# Bot haqida
+# Kod haqida
 Youtube'dan videolarni qidirish va inline rejimda ulashish uchun bot.
 
 Botni yozishda ishlatilgan kutubxonalar: [PyTelegramBotAPI](https://pypi.org/project/pyTelegramBotAPI/), [youtube-search](https://pypi.org/project/youtube-search/).
